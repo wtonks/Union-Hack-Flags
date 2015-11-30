@@ -5,4 +5,4 @@
 ![image](FLAG2.png)
 ![image](FLAG3.png)
 ![image](FLAG4.png)
-![image](FLAG5.png)
+![image](ORIGINALFLAG.png)
