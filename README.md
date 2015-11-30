@@ -6,6 +6,6 @@
 ![image](FLAG3.png)
 ![image](FLAG4.png)
 
-Original flag - If Homer Simpson was president of Springfield, how would the flag look?
+Original flag - If Homer Simpson was president of Springfield, how would the flag look? I imagined donuts would be the first thing he'd think of. 🍩
 
 ![image](ORIGINALFLAG.png)
